@@ -12,12 +12,12 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-|                                               | |
-|                                               | |
-|                                               | |
-|                                               | |
-|                                               | |
-|                                               | |
+| Basic Java                                    | |
+| Bacsic JavaScript                             | |
+| Bacsic HTML & CSS                             | |
+| Bacsic PHP                                    | |
+| Bacsic SQL                                    | |
+| Bacsic XML & J-SON                            | |
 
 
 ## Certifications
