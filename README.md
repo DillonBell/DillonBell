@@ -1,5 +1,5 @@
 # Hello, I'm Dillon
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="[https://linkedin.com](https://www.linkedin.com/signup/public-profile-join?vieweeVanityName=dillon-bell-49bb4a342&trk=public_profile-settings_top-card-primary-button-join-to-view-profile)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 I am a computer programming collage student with a profound interest in technology and a dedication to solving complex problems.
